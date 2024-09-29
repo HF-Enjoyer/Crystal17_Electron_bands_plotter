@@ -7,14 +7,14 @@ The script uses two python standard libraries:
 - numpy
 
 Just cmd in your working directory
-```python
+```shell
 	py bands.py <filename>
 ```
 Then follow the instructions.
 
 # Example:
 
-```python
+```shell
 	size of the figure <x y>: 9 10
 	Title of the graph, fontsize <title, number>: My bands, 16
 	Title of y axis, fontsize e.g. <Energy, ev; 16>: Energy, eV; 16
